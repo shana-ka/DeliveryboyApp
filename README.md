@@ -20,3 +20,11 @@ samples, guidance on mobile development, and a full API reference.
 >>>>>>> bce5096559b2d6ec2cfb75d81f1956392b9ea051 -->
 # DeliveryboyApp
 Flutter delivery boy application
+
+This is a basic delivery boy app where the delivery person can:
+    Login(using mobile number and OTP),
+    View asigned orders,
+    Navigate to the delivery location,
+    Mark delivery as completed and
+    Track order history
+

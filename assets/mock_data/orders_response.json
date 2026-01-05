@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "orders": [
+      {
+        "orderId": "ORD001",
+        "customerName": "Ravi Kumar",
+        "customerPhone": "+91 98765 43210",
+        "address": "TC 15/234, Pattom, Thiruvananthapuram, Kerala 695004",
+        "deliveryTime": "2:30 PM",
+        "distance": 2.5,
+        "status": "Pending",
+        "items": [
+          {"name": "Pizza Margherita", "quantity": 2, "price": 24.99},
+          {"name": "Coca Cola", "quantity": 1, "price": 3.99}
+        ],
+        "total": 28.98
+      },
+      {
+        "orderId": "ORD002",
+        "customerName": "Priya Nair",
+        "customerPhone": "+91 87654 32109",
+        "address": "House No 42, MG Road, Ernakulam, Kochi, Kerala 682016",
+        "deliveryTime": "3:15 PM",
+        "distance": 1.8,
+        "status": "In Transit",
+        "items": [
+          {"name": "Chicken Biryani", "quantity": 1, "price": 15.99},
+          {"name": "Raita", "quantity": 1, "price": 2.99}
+        ],
+        "total": 18.98
+      },
+      {
+        "orderId": "ORD003",
+        "customerName": "Suresh Menon",
+        "customerPhone": "+91 76543 21098",
+        "address": "Flat 3B, Calicut Tower, Mavoor Road, Kozhikode, Kerala 673004",
+        "deliveryTime": "4:00 PM",
+        "distance": 4.2,
+        "status": "Pending",
+        "items": [
+          {"name": "Fish Curry", "quantity": 1, "price": 12.99},
+          {"name": "Rice", "quantity": 2, "price": 4.99}
+        ],
+        "total": 17.98
+      },
+      {
+        "orderId": "ORD004",
+        "customerName": "Anjali Pillai",
+        "customerPhone": "+91 65432 10987",
+        "address": "Villa 12, Kadavanthra, Ernakulam, Kochi, Kerala 682020",
+        "deliveryTime": "4:45 PM",
+        "distance": 3.1,
+        "status": "Pending",
+        "items": [
+          {"name": "Dosa", "quantity": 3, "price": 8.99},
+          {"name": "Sambar", "quantity": 1, "price": 3.99}
+        ],
+        "total": 12.98
+      }
+    ]
+  }
+}

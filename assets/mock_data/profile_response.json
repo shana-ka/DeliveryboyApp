@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "data": {
+    "profile": {
+      "id": "DB001",
+      "name": "Arjun Nair",
+      "phone": "9876543210",
+      "email": "arjun.nair@delivery.com",
+      "vehicle": "Motorcycle",
+      "license": "KL0720230001234",
+      "joinDate": "2023-01-15",
+      "totalDeliveries": 245,
+      "rating": 4.8,
+      "status": "Active"
+    }
+  }
+}

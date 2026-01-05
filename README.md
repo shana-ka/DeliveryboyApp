@@ -1,3 +1,4 @@
+<!-- <<<<<<< HEAD
 # deliveryboyapp
 
 A new Flutter project.
@@ -14,3 +15,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# DeliveryboyApp
+>>>>>>> bce5096559b2d6ec2cfb75d81f1956392b9ea051 -->
+# DeliveryboyApp
+Flutter delivery boy application
